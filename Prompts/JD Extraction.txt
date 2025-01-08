@@ -1,0 +1,13 @@
+Below is a list of job descriptions. There may be one or more job descriptions provided. Your task is to extract the following fields: Title, Job Purpose, Responsibilities, Education Requirements, Experience, and Knowledge and Skills. Write a JSON payload for each job description in the format shown below. If any information is not provided in the text, leave the respective field empty. Do not invent or assume information; strictly use the data given in the provided job descriptions. The output should not include the word "json" at the beginning, and it must not have any inverted commas or other delimiters at the beginning or the end.
+
+[
+    {
+        "Title": "",
+        "JobPurpose": "",
+        "Responsibilities": [],
+        "EducationRequirements": "",
+        "Experience": "",
+        "KnowledgeAndSkills": []
+    }
+]
+ JDs 

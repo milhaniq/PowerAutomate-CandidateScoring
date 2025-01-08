@@ -1,0 +1,25 @@
+Below is text extracted from CVs of potential candidates. There may be one or more CVs provided. Your task is to extract the following fields: Name of the candidate, Experiences, Education, Knowledge and Skills, Other Info. Write a JSON payload for each job description in the format shown below. If any information is not provided in the text, leave the respective field empty. Do not invent or assume information; strictly use the data given in the provided job descriptions. The output should not include the word "json" at the beginning, and it must not have any inverted commas or other delimiters at the beginning or the end.
+
+[
+    {
+        "Name": "",
+        "Experience": [
+            {
+                "Position": "",
+                "Company": "",
+                "Location": "",
+                "Duration": "",
+                "Responsibilities": [""]
+            }
+        ],
+        "Education": [
+            {
+                "Degree": "",
+                "Institution": "",
+                "Year": ""
+            }
+        ],
+        "KnowledgeAndSkills": [""],
+        "OtherInfo": [""]
+    }
+]

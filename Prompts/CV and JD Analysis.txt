@@ -1,0 +1,28 @@
+You are provided with candidate CV details along with the Job Description (JD). For each candidate, evaluate their suitability for the job based on experience, education, and knowledge & skills. Generate a JSON payload containing the following fields: Name (candidate's name), Work Experience (summary of the candidate's work experience, relevant job requirements from the JD, AI comments on the match, and a score out of 100), Education (candidate's education, relevant education requirements from the JD, AI comments on the match, and a score out of 100), and Knowledge & Skills (candidate's knowledge and skills, skills required for the job, AI comments on the match, and a score out of 100). Provide detailed comments and scores for each evaluation. If any information is not provided in the text, leave the respective field empty. Do not invent or assume information; strictly use the data given in the provided job descriptions.
+
+The output should not include the word "json" at the beginning, and it must not have any inverted commas or other delimiters at the beginning or the end.
+
+[
+  {
+    "Name": "",
+    "WorkExperience": {
+      "CandidateExperience": "",
+      "JobRequirements": "",
+      "AIComments": "",
+      "ScoreOutOf100": 0
+    },
+    "Education": {
+      "CandidateEducation": "",
+      "EducationRequirements": "",
+      "AIComments": "",
+      "ScoreOutOf100": 0
+    },
+    "KnowledgeAndSkills": {
+      "CandidateKnowledgeAndSkills": "",
+      "SkillsRequired": "",
+      "AIComments": "",
+      "ScoreOutOf10": 0
+    }
+  }
+]
+

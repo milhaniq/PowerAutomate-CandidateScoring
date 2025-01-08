@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Sarah Mitchell",
+    "WorkExperience": {
+      "CandidateExperience": "Employee Relations Manager at XYZ Inc. (2017-Present), Employee Relations Specialist at ABC Corp. (2013-2017)",
+      "JobRequirements": "Minimum of 8 years of experience in total rewards management, with at least 5 years of experience in the GCC region.",
+      "AIComments": "Sarah has extensive experience in employee relations but lacks specific experience in total rewards management and the GCC region.",
+      "ScoreOutOf100": 40
+    },
+    "Education": {
+      "CandidateEducation": "Bachelor of Arts in Human Resources Management from University of Illinois, Urbana-Champaign (2010-2013)",
+      "EducationRequirements": "Bachelor’s degree in Human Resources, Business Administration, or a related field. A master’s degree is a plus.",
+      "AIComments": "Sarah meets the educational requirement with a relevant degree but does not have a master's degree.",
+      "ScoreOutOf100": 70
+    },
+    "KnowledgeAndSkills": {
+      "CandidateKnowledgeAndSkills": "Employee Relations & Conflict Resolution, Labor Law Compliance, Policy Development, Employee Engagement Strategies, Mediation and Negotiation, HR Software (Workday, ADP)",
+      "SkillsRequired": "In-depth knowledge of compensation and benefits practices in the GCC region, strong analytical skills, excellent understanding of local labor laws, strong communication skills, experience in designing incentive programs, proficiency in Microsoft Excel.",
+      "AIComments": "Sarah's skills are more focused on employee relations rather than total rewards management, and she lacks specific knowledge of GCC compensation practices.",
+      "ScoreOutOf100": 30
+    }
+  },
+  {
+    "Name": "John Davis",
+    "WorkExperience": {
+      "CandidateExperience": "Payroll Manager at Global Enterprises (2016-Present), Payroll Coordinator at Bright Horizons Ltd. (2011-2016)",
+      "JobRequirements": "Minimum of 8 years of experience in total rewards management, with at least 5 years of experience in the GCC region.",
+      "AIComments": "John has significant payroll experience but does not have experience in total rewards management or the GCC region.",
+      "ScoreOutOf100": 35
+    },
+    "Education": {
+      "CandidateEducation": "Bachelor of Science in Accounting from Georgia State University (2007-2011)",
+      "EducationRequirements": "Bachelor’s degree in Human Resources, Business Administration, or a related field. A master’s degree is a plus.",
+      "AIComments": "John's degree is in Accounting, which does not directly align with the required fields, and he does not have a master's degree.",
+      "ScoreOutOf100": 50
+    },
+    "KnowledgeAndSkills": {
+      "CandidateKnowledgeAndSkills": "Payroll Processing & Tax Compliance, ADP Workforce Now, Ceridian, Kronos, Payroll Audits and Reporting, Benefits Administration, Financial Reporting, Microsoft Excel",
+      "SkillsRequired": "In-depth knowledge of compensation and benefits practices in the GCC region, strong analytical skills, excellent understanding of local labor laws, strong communication skills, experience in designing incentive programs, proficiency in Microsoft Excel.",
+      "AIComments": "John has strong skills in payroll and benefits administration but lacks specific knowledge in total rewards management and GCC practices.",
+      "ScoreOutOf100": 40
+    }
+  },
+  {
+    "Name": "Emily Walker",
+    "WorkExperience": {
+      "CandidateExperience": "Talent Acquisition Manager at Innovative Solutions (2018-Present), Senior Recruiter at Bright Horizons Consulting (2014-2018)",
+      "JobRequirements": "Minimum of 8 years of experience in total rewards management, with at least 5 years of experience in the GCC region.",
+      "AIComments": "Emily has strong experience in talent acquisition but does not have experience in total rewards management or the GCC region.",
+      "ScoreOutOf100": 30
+    },
+    "Education": {
+      "CandidateEducation": "Bachelor of Science in Business Administration from University of Southern California (2010-2014)",
+      "EducationRequirements": "Bachelor’s degree in Human Resources, Business Administration, or a related field. A master’s degree is a plus.",
+      "AIComments": "Emily meets the educational requirement with a relevant degree but does not have a master's degree.",
+      "ScoreOutOf100": 70
+    },
+    "KnowledgeAndSkills": {
+      "CandidateKnowledgeAndSkills": "Full-Cycle Recruiting, ATS & Recruiting Software (iCIMS, Greenhouse), Interviewing & Candidate Assessment, Employee Onboarding, Employer Branding, Diversity & Inclusion",
+      "SkillsRequired": "In-depth knowledge of compensation and benefits practices in the GCC region, strong analytical skills, excellent understanding of local labor laws, strong communication skills, experience in designing incentive programs, proficiency in Microsoft Excel.",
+      "AIComments": "Emily's skills are focused on recruitment rather than total rewards management, and she lacks specific knowledge of GCC compensation practices.",
+      "ScoreOutOf100": 30
+    }
+  },
+  {
+    "Name": "Jessica Brown",
+    "WorkExperience": {
+      "CandidateExperience": "Total Rewards Manager at ABC Corporation (2016-Present), Compensation and Benefits Specialist at XYZ Ltd. (2012-2016)",
+      "JobRequirements": "Minimum of 8 years of experience in total rewards management, with at least 5 years of experience in the GCC region.",
+      "AIComments": "Jessica has relevant experience in total rewards management but does not mention experience in the GCC region.",
+      "ScoreOutOf100": 70
+    },
+    "Education": {
+      "CandidateEducation": "Bachelor of Science in Human Resources from New York University (2007-2011)",
+      "EducationRequirements": "Bachelor’s degree in Human Resources, Business Administration, or a related field. A master’s degree is a plus.",
+      "AIComments": "Jessica meets the educational requirement with a relevant degree but does not have a master's degree.",
+      "ScoreOutOf100": 70
+    },
+    "KnowledgeAndSkills": {
+      "CandidateKnowledgeAndSkills": "Compensation Strategy & Design, Benefits Administration, Salary Surveys & Market Analysis, Incentive & Bonus Program Management, Employee Wellness Programs, HRIS Systems (Workday, SAP)",
+      "SkillsRequired": "In-depth knowledge of compensation and benefits practices in the GCC region, strong analytical skills, excellent understanding of local labor laws, strong communication skills, experience in designing incentive programs, proficiency in Microsoft Excel.",
+      "AIComments": "Jessica has strong skills in total rewards management but lacks specific knowledge of GCC practices and local labor laws.",
+      "ScoreOutOf100": 60
+    }
+  }
+]
